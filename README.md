@@ -233,9 +233,7 @@ cp $HOME/0g-ai/bin/0g-alignment-node $HOME/0g-ai/bin/0g-alignment-node.backup
 
 ### 3. Yeni binary'yi indirip değiştirin:
 ```bash
-cd $HOME/0g-ai
-wget -O bin/0g-alignment-node https://github.com/0gfoundation/alignment-node-release/releases/latest/0g-alignment-node
-chmod +x bin/0g-alignment-node
+...
 
 # Symbolic link otomatik olarak yeni binary'yi işaret edecek
 ```
