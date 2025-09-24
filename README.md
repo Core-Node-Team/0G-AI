@@ -88,6 +88,13 @@ Bu portun açık olduğundan emin olun:
 
 ## Register.
 ```
+cd
+cd $HOME/0g-ai/config
+```
+```
+0g-alignment-node approve --mainnet --key privatey-key-yaz --chain-id 42161 --rpc https://arb1.arbitrum.io/rpc --contract 0xdD158B8A76566bC0c342893568e8fd3F08A9dAac --destNode cüzdan-adresi-yaz --tokenIds YOUR_NFT_TOKEN_ID
+```
+```
 0g-alignment-node registerOperator --key privatey-key-yaz --token-id YOUR_NFT_TOKEN_ID --commission 10 --chain-id 42161 --rpc https://arb1.arbitrum.io/rpc --contract 0xdD158B8A76566bC0c342893568e8fd3F08A9dAac --mainnet
 ```
 
