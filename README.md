@@ -14,6 +14,8 @@
 
 NOT: private key işlemelride baştaki 0X kullanmıyoruz.
 
+# LOGLARINIZI KİMSEYLE PAYLAŞMAYINIZ... KİMSEYLE
+
 ## Adım 1: Dizin Yapısı ve Binary Kurulumu
 
 ### 1. Ana dizini ve alt klasörleri oluşturun:
@@ -164,6 +166,8 @@ sudo journalctl -u 0g-alignment-node -f
 # Son 100 log girişini görüntüle
 sudo journalctl -u 0g-alignment-node -n 100
 ```
+
+# LOGLARINIZI KİMSEYLE PAYLAŞMAYINIZ... KİMSEYLE
 
 ## Node İzleme
 
