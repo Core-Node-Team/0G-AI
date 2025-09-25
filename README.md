@@ -116,7 +116,7 @@ Wants=network.target
 [Service]
 Type=simple
 User=$USER
-WorkingDirectory=$HOME/0g-ai
+WorkingDirectory=$HOME/0g-ai/config
 EnvironmentFile=$HOME/0g-ai/config/.env
 ExecStart=$(which 0g-alignment-node) start --mainnet
 Restart=always
