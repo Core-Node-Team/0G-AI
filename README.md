@@ -16,6 +16,8 @@ NOT: private key işlemelride baştaki 0X kullanmıyoruz.
 
 # LOGLARINIZI KİMSEYLE PAYLAŞMAYINIZ... KİMSEYLE
 
+# CoreNode Operator Adres : 0xb984B1f158963417467900b4Be868f83deA007fC
+
 ## Adım 1: Dizin Yapısı ve Binary Kurulumu
 
 ### 1. Ana dizini ve alt klasörleri oluşturun:
